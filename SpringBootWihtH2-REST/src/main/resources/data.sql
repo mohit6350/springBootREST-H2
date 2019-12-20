@@ -1,0 +1,1 @@
+insert into student (roll,name,age,branch) values (123,'mohit khare',24,'CSE');
